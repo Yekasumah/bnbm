@@ -19,7 +19,7 @@ const Nav = () => {
         <img src={img} alt="logo" className="logo" />
         </Link>
             <ul className="order">
-                <li><Link to="/Home" id="contact">Home</Link></li>
+                <li><Link to="/" id="contact">Home</Link></li>
                 <li><Link to="/PlaceToStay" id="contact">Place to stay</Link></li>
                 <li><Link to="/NFTs" id="contact">NFTs</Link></li>
                 <li><Link to="/community" id="contact">community</Link></li>
