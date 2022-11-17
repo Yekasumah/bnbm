@@ -89,7 +89,7 @@ const Nav = () => {
               <div className="wallet1">
                 <div className="wallet1-item1">
                   <img src={Wallet2} alt="wallet1" />
-                  <p>Metamask</p>
+                  <p>WalletConnect</p>
                 </div>
                 <IoIosArrowForward className="wallt1-arrow" />
               </div>
