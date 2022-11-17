@@ -15,7 +15,7 @@ const Nav = () => {
     return (
         <div className="main">
         <div className="navi">
-        <Link to="/Home">
+        <Link to="/">
         <img src={img} alt="logo" className="logo" />
         </Link>
             <ul className="order">
